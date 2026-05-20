@@ -1,22 +1,24 @@
-import os 
+import os
 from dotenv import load_dotenv
 
 load_dotenv()
 
-class Config: 
+class Config:
+    # Database
+    DATABASE_URL: str = os.getenv("DATABASE_URL")
 
-    Database_URL = os.getenv('DATABASE_URL')
+    # JWT
+    SECRET_KEY: str = os.getenv("SECRET_KEY")
+    ALGORITHM: str = "HS256"
+    ACCESS_TOKEN_EXPIRE_MINUTES: int = 60 * 24 * 7  # 7 days
 
-    Secret_Key = os.getenv('SECRET_KEY')
+    # Google OAuth
+    GOOGLE_CLIENT_ID: str = os.getenv("GOOGLE_CLIENT_ID")
+    GOOGLE_CLIENT_SECRET: str = os.getenv("GOOGLE_CLIENT_SECRET")
 
-    Algorithm = 'HS256'
-    Access_Token_Expire_Minutes = 60 * 24 * 7
+    # MistralAI
+    MISTRAL_API_KEY: str = os.getenv("MISTRAL_API_KEY")
+    MISTRAL_MODEL: str = "mistral-small-latest"
 
-
-    Google_Client_ID = os.getenv('GOOGLE_CLIENT_ID')
-    Google_Client_Secret = os.getenv('GOOGLE_CLIENT_SECRET')
-
-    MISTRAL_API_KEY = os.getenv('MISTRAL_API_KEY')
-    Mistral_model_name = "mistral-small-latest"
-
-    
+   
+config = Config()
