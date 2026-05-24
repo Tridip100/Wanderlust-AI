@@ -18,7 +18,7 @@ class Config:
 
     # MistralAI
     MISTRAL_API_KEY: str = os.getenv("MISTRAL_API_KEY")
-    MISTRAL_MODEL: str = "mistral-small-latest"
+    MISTRAL_MODEL: str = "open-mistral-nemo"
 
    
 config = Config()
