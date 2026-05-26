@@ -391,48 +391,68 @@ def seed_from_datasets(db):
         print(f"  Travel Destinations import failed: {e}")
 
 
-
 def seed_from_json_files(db):
     import json
-
     print("📁 Importing from JSON files...")
 
-    # ── EVENTS ──────────────────────────────────────
-    try:
-        with open("data/events_data.json", "r") as f:
-            events_data = json.load(f)
-        count = 0
-        for e in events_data:
-            try:
-                event_type = str(e["type"]).lower().strip()
-                if event_type not in VALID_EVENT_TYPES:
-                    event_type = TYPE_MAP.get(event_type, "cultural")
-                event = Event(
-                    name=e["name"],
-                    country=e["country"],
-                    city=e["city"],
-                    latitude=float(e["latitude"]),
-                    longitude=float(e["longitude"]),
-                    start_date=date(2025, int(e["start_month"]), int(e["start_day"])),
-                    end_date=date(2025, int(e["end_month"]), int(e["end_day"])),
-                    type=event_type,
-                    description=e["description"],
-                    popularity_score=float(e["popularity_score"]),
-                    is_offbeat=bool(e["is_offbeat"]),
-                )
-                db.add(event)
-                count += 1
-            except Exception as err:
-                print(f"  ⚠️ Skipped event {e.get('name')}: {err}")
-        db.commit()
-        print(f"  ✅ Imported {count} events from JSON")
-    except Exception as e:
-        db.rollback()
-        print(f"  ❌ Events JSON failed: {e}")
+    # ── ALL EVENT FILES ──────────────────────────────
+    event_files = [
+        "data/events_data.json",
+        "data/india_local_festivals.json",
+        "data/world_festivals_extra.json",
+    ]
+
+    total_events = 0
+    for filepath in event_files:
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                events_data = json.load(f)
+            count = 0
+            for e in events_data:
+                try:
+                    event_type = str(e["type"]).lower().strip()
+                    if event_type not in VALID_EVENT_TYPES:
+                        event_type = TYPE_MAP.get(event_type, "cultural")
+
+                    # fix end_day > 28 safety
+                    start_day = min(int(e["start_day"]), 28)
+                    end_day   = min(int(e["end_day"]), 28)
+                    start_month = int(e["start_month"])
+                    end_month   = int(e["end_month"])
+
+                    # if end month < start month it wraps to next year — use same month
+                    if end_month < start_month:
+                        end_month = start_month
+
+                    event = Event(
+                        name=e["name"],
+                        country=e["country"],
+                        city=e["city"],
+                        latitude=float(e["latitude"]),
+                        longitude=float(e["longitude"]),
+                        start_date=date(2025, start_month, start_day),
+                        end_date=date(2025, end_month, end_day),
+                        type=event_type,
+                        description=e["description"],
+                        popularity_score=float(e["popularity_score"]),
+                        is_offbeat=bool(e["is_offbeat"]),
+                    )
+                    db.add(event)
+                    count += 1
+                except Exception as err:
+                    print(f"  ⚠️ Skipped {e.get('name')}: {err}")
+            db.commit()
+            total_events += count
+            print(f"  ✅ {filepath.split('/')[-1]} → {count} events")
+        except Exception as e:
+            db.rollback()
+            print(f"  ❌ {filepath} failed: {e}")
+
+    print(f"  🎪 Total events imported: {total_events}")
 
     # ── TREKS ────────────────────────────────────────
     try:
-        with open("data/treks_data.json", "r") as f:
+        with open("data/treks_data.json", "r", encoding="utf-8") as f:
             treks_data = json.load(f)
         count = 0
         for t in treks_data:
@@ -457,14 +477,14 @@ def seed_from_json_files(db):
             except Exception as err:
                 print(f"  ⚠️ Skipped trek {t.get('name')}: {err}")
         db.commit()
-        print(f"  ✅ Imported {count} treks from JSON")
+        print(f"  ✅ treks_data.json → {count} treks")
     except Exception as e:
         db.rollback()
         print(f"  ❌ Treks JSON failed: {e}")
 
     # ── OFFROAD ──────────────────────────────────────
     try:
-        with open("data/offroad_data.json", "r") as f:
+        with open("data/offroad_data.json", "r", encoding="utf-8") as f:
             offroad_data = json.load(f)
         count = 0
         for o in offroad_data:
@@ -490,7 +510,7 @@ def seed_from_json_files(db):
             except Exception as err:
                 print(f"  ⚠️ Skipped trail {o.get('name')}: {err}")
         db.commit()
-        print(f"  ✅ Imported {count} offroad trails from JSON")
+        print(f"  ✅ offroad_data.json → {count} offroad trails")
     except Exception as e:
         db.rollback()
         print(f"  ❌ Offroad JSON failed: {e}")
@@ -502,54 +522,59 @@ def run_seed():
 
     db = SessionLocal()
 
-    # check existing data
-    existing_events = db.query(Event).count()
-    existing_treks = db.query(Trek).count()
+    existing_events  = db.query(Event).count()
+    existing_treks   = db.query(Trek).count()
     existing_offroad = db.query(OffroadTrail).count()
 
     print(f"Existing: {existing_events} events, {existing_treks} treks, {existing_offroad} offroad")
 
+    # datasets
     try:
         seed_from_datasets(db)
     except Exception as e:
         print(f"❌ Datasets failed: {e}")
         db.rollback()
 
-    # ← ADD THIS NEW LINE
-    seed_from_json_files(db)
+    # JSON files — only if events < 200
+    if existing_events < 200:
+        seed_from_json_files(db)
+    else:
+        print(f"⏭️ Skipping JSON files — already have {existing_events} events")
 
-    if existing_events == 0:
+    # Mistral — only if still low
+    if existing_events < 50:
         try:
             seed_events(db)
         except Exception as e:
-            print(f"❌ Events failed: {e}")
             db.rollback()
-    else:
-        print(f"⏭️ Skipping Mistral events — already have {existing_events}")
 
-    if existing_treks == 0:
+    if existing_treks < 50:
         try:
             seed_treks(db)
         except Exception as e:
-            print(f"❌ Treks failed: {e}")
             db.rollback()
-    else:
-        print(f"⏭️ Skipping Mistral treks — already have {existing_treks}")
 
-    if existing_offroad == 0:
+    if existing_offroad < 50:
         try:
             seed_offroad(db)
         except Exception as e:
-            print(f"❌ Offroad failed: {e}")
             db.rollback()
-    else:
-        print(f"⏭️ Skipping Mistral offroad — already have {existing_offroad}")
 
     db.close()
+
+    # final count
+    db2 = SessionLocal()
+    print(f"\n📊 FINAL DATABASE COUNT:")
+    print(f"  Events:       {db2.query(Event).count()}")
+    print(f"  Treks:        {db2.query(Trek).count()}")
+    print(f"  Offroad:      {db2.query(OffroadTrail).count()}")
+    print(f"  Destinations: {db2.query(Destination).count()}")
+    db2.close()
 
     print("\n" + "=" * 50)
     print("✅ SEEDING COMPLETE!")
     print("=" * 50)
+
 
 if __name__ == "__main__":
     run_seed()
