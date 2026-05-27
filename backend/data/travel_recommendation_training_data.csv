@@ -1,0 +1,501 @@
+item_id,item_type,item_name,country,user_type,interest,vibe,budget_usd,travel_month,popularity_score,season_match,difficulty_match,interest_match,budget_match,is_offbeat,recommendation_score
+9630,destination,Cusco,Peru,solo,culture,relaxed,7176.8,8,0.64,0.76,0.89,0.98,0.0,0,0.64
+9794,trek,Annapurna Circuit,Nepal,family,adventure,spiritual,832.57,8,0.78,0.7,0.25,0.98,0.82,0,0.72
+9314,destination,Chefchaouen,Morocco,couple,offbeat,spiritual,1780.62,2,0.57,0.9,0.71,0.94,0.74,1,0.83
+9197,event,Pushkar Camel Fair,India,family,food,offbeat,4473.81,3,0.7,0.3,1.0,0.27,0.0,1,0.21
+9903,event,Pushkar Camel Fair,India,solo,culture,spiritual,5485.68,4,0.9,0.4,0.74,0.86,0.0,0,0.46
+9875,trek,Markha Valley Trek,India,solo,adventure,thrill,2962.37,7,0.62,0.79,0.95,0.19,0.11,0,0.38
+9224,trek,Torres del Paine W Trek,Chile,solo,adventure,luxury,1199.7,1,0.55,0.88,0.85,0.53,0.7,0,0.67
+9082,trek,Annapurna Circuit,Nepal,family,nature,spiritual,3651.57,4,0.9,0.76,0.25,0.16,0.0,0,0.28
+9947,trek,Torres del Paine W Trek,Chile,solo,offbeat,luxury,1709.13,12,0.36,0.99,0.85,0.76,0.53,0,0.76
+9664,trek,Milford Track,New Zealand,couple,nature,spiritual,4951.22,9,0.33,0.9,0.75,0.85,0.0,0,0.62
+9414,destination,Varanasi,India,solo,culture,spiritual,1250.97,5,0.79,0.8,0.71,0.47,0.85,0,0.64
+9816,event,Cherry Blossom Festival,Japan,solo,culture,luxury,6941.34,4,0.49,0.94,0.96,0.15,0.0,0,0.39
+9142,event,Durga Puja,India,family,adventure,budget,2308.06,12,0.38,0.8,0.92,0.11,0.0,0,0.32
+9952,trek,Markha Valley Trek,India,solo,food,relaxed,2463.16,9,0.91,0.83,0.95,0.54,0.28,0,0.57
+9593,event,Naadam Festival,Mongolia,family,food,budget,6069.19,12,0.38,0.5,0.73,0.32,0.0,0,0.29
+9123,trek,Inca Trail,Peru,family,culture,luxury,4125.98,8,0.74,0.89,0.5,0.59,0.0,0,0.49
+9254,event,Gion Matsuri,Japan,couple,nature,thrill,6567.21,12,0.86,0.5,0.79,0.35,0.0,0,0.3
+9606,destination,Pokhara,Nepal,solo,culture,budget,3702.87,2,0.65,0.3,0.74,0.44,0.36,0,0.35
+9655,event,Cherry Blossom Festival,Japan,family,nature,relaxed,4815.76,8,0.61,0.6,0.78,0.96,0.0,0,0.57
+9518,destination,Pokhara,Nepal,couple,culture,relaxed,435.49,5,0.59,0.6,0.75,0.59,0.99,0,0.66
+9247,destination,Cusco,Peru,couple,culture,budget,3067.19,9,0.75,0.81,0.76,0.84,0.49,0,0.71
+9144,destination,Swiss Alps,Switzerland,couple,spiritual,offbeat,6123.23,5,0.58,0.9,0.82,0.15,0.0,1,0.36
+9307,destination,Varanasi,India,couple,offbeat,offbeat,6927.31,10,0.58,0.86,0.84,0.17,0.0,1,0.36
+9516,trek,Inca Trail,Peru,family,spiritual,thrill,4945.96,3,0.54,0.8,0.5,0.47,0.0,0,0.42
+9837,destination,Chefchaouen,Morocco,family,food,offbeat,7450.77,11,0.52,0.4,0.82,0.53,0.0,1,0.34
+9848,event,Bhutan Tsechu,Bhutan,couple,offbeat,relaxed,4178.45,3,0.44,0.4,0.97,0.41,0.0,0,0.3
+9904,trek,Snowman Trek,Bhutan,solo,offbeat,spiritual,5604.21,5,0.46,0.6,0.95,0.96,0.0,1,0.59
+9043,trek,Annapurna Circuit,Nepal,couple,adventure,offbeat,4395.7,1,0.38,0.8,0.65,0.97,0.0,1,0.62
+9405,event,Inti Raymi,Peru,solo,nature,spiritual,3127.67,3,0.61,0.7,0.7,0.17,0.0,0,0.29
+9633,event,Lantern Festival,Vietnam,solo,food,thrill,6045.84,3,0.55,0.99,0.92,0.57,0.0,0,0.57
+9589,event,Cherry Blossom Festival,Japan,couple,food,luxury,6545.08,11,0.32,0.3,0.97,0.31,0.0,0,0.23
+9465,trek,Everest Base Camp,Nepal,family,spiritual,offbeat,2848.27,2,0.41,0.9,0.25,0.16,0.15,1,0.35
+9777,event,Songkran Festival,Thailand,family,nature,spiritual,665.4,7,0.59,0.7,0.94,0.34,0.77,0,0.57
+9241,trek,Torres del Paine W Trek,Chile,family,adventure,budget,6068.94,4,0.9,0.9,0.5,0.27,0.0,0,0.38
+9151,trek,Laugavegur Trail,Iceland,family,culture,budget,7058.79,1,0.6,0.5,0.5,0.57,0.0,0,0.36
+9465,destination,Siem Reap,Cambodia,family,culture,spiritual,7009.5,3,0.56,0.9,0.72,0.96,0.0,0,0.66
+9547,event,Bhutan Tsechu,Bhutan,family,nature,spiritual,1189.14,9,0.9,0.94,0.98,0.6,0.51,0,0.69
+9246,destination,Chefchaouen,Morocco,couple,adventure,spiritual,2010.96,11,0.77,0.4,0.81,0.55,0.7,1,0.51
+9642,trek,Kumano Kodo,Japan,solo,offbeat,offbeat,5272.15,3,0.54,0.9,0.9,0.53,0.0,1,0.52
+9833,event,Gion Matsuri,Japan,solo,food,budget,6050.57,9,0.92,0.8,0.9,0.33,0.0,0,0.4
+9587,destination,Machu Picchu,Peru,couple,nature,luxury,4194.95,3,0.71,0.8,0.85,0.44,0.26,0,0.51
+9531,trek,Snowman Trek,Bhutan,solo,culture,offbeat,2030.57,9,0.65,0.75,0.95,0.59,0.42,1,0.6
+9655,destination,Bali,Indonesia,couple,culture,budget,5014.26,3,0.75,0.9,0.91,0.49,0.1,0,0.53
+9428,trek,Inca Trail,Peru,solo,culture,relaxed,915.3,8,0.54,0.87,0.85,0.57,0.79,0,0.71
+9990,trek,Annapurna Circuit,Nepal,solo,nature,offbeat,5785.63,11,0.77,0.4,0.95,0.58,0.0,1,0.37
+9265,trek,Inca Trail,Peru,solo,culture,luxury,7593.5,4,0.48,0.9,0.85,0.51,0.0,0,0.5
+9494,trek,Everest Base Camp,Nepal,family,culture,relaxed,6822.34,12,0.85,0.3,0.25,0.44,0.0,0,0.24
+9912,event,Pushkar Camel Fair,India,family,culture,luxury,3118.57,3,0.88,0.3,0.73,0.99,0.0,0,0.47
+9064,event,Songkran Festival,Thailand,couple,spiritual,budget,5386.65,12,0.33,0.2,0.73,0.19,0.0,0,0.14
+9818,event,Timkat Festival,Ethiopia,family,food,offbeat,1733.38,3,0.71,0.8,0.97,0.23,0.23,1,0.43
+9107,trek,Kumano Kodo,Japan,solo,nature,luxury,5709.38,1,0.46,0.7,0.9,0.12,0.0,0,0.29
+9069,trek,Kumano Kodo,Japan,family,food,spiritual,6888.09,4,0.59,0.79,0.85,0.35,0.0,0,0.4
+9414,trek,Everest Base Camp,Nepal,couple,food,budget,6021.55,1,0.85,0.8,0.65,0.36,0.0,0,0.39
+9200,destination,Siem Reap,Cambodia,solo,adventure,thrill,6630.91,3,0.8,0.9,0.75,0.3,0.0,0,0.41
+9467,trek,Annapurna Circuit,Nepal,family,culture,offbeat,2988.77,2,0.31,0.9,0.25,0.2,0.1,1,0.36
+9458,trek,Laugavegur Trail,Iceland,solo,offbeat,relaxed,4053.1,10,0.37,0.8,0.85,0.83,0.0,0,0.59
+9898,event,Inti Raymi,Peru,couple,spiritual,relaxed,6786.07,7,0.63,0.9,0.75,0.53,0.0,0,0.5
+9009,trek,Markha Valley Trek,India,solo,nature,relaxed,3136.99,11,0.48,0.8,0.95,1.0,0.05,0,0.69
+9400,destination,Siem Reap,Cambodia,family,food,offbeat,1073.62,3,0.68,0.9,0.84,0.17,0.89,1,0.59
+9552,trek,Torres del Paine W Trek,Chile,couple,nature,relaxed,4385.79,4,0.34,0.9,0.75,0.86,0.0,0,0.63
+9959,trek,Milford Track,New Zealand,solo,adventure,thrill,2505.87,4,0.91,0.86,0.85,0.37,0.26,0,0.5
+9884,trek,Everest Base Camp,Nepal,couple,spiritual,offbeat,7738.93,4,0.9,0.76,0.65,0.14,0.0,1,0.3
+9605,destination,Cusco,Peru,couple,food,budget,4380.62,12,0.79,0.7,0.91,0.55,0.22,0,0.51
+9101,event,Songkran Festival,Thailand,family,offbeat,budget,1985.46,8,0.35,0.6,0.87,0.35,0.11,0,0.37
+9857,destination,Lofoten Islands,Norway,couple,nature,spiritual,6509.86,8,0.77,0.87,0.94,0.96,0.0,0,0.68
+9610,event,Inti Raymi,Peru,family,nature,offbeat,1847.79,5,0.9,0.9,0.82,0.15,0.18,1,0.4
+9774,event,Songkran Festival,Thailand,solo,adventure,luxury,3123.55,11,0.38,0.3,0.76,0.52,0.0,0,0.3
+9378,event,Naadam Festival,Mongolia,solo,offbeat,offbeat,5062.87,8,0.48,0.9,0.95,0.5,0.0,1,0.51
+9969,event,Timkat Festival,Ethiopia,solo,food,relaxed,396.42,4,0.77,0.7,0.77,0.51,0.9,0,0.64
+9430,event,Lantern Festival,Vietnam,family,food,luxury,6096.08,12,0.65,0.1,0.86,0.25,0.0,0,0.13
+9134,destination,Zanzibar,Tanzania,solo,adventure,budget,6189.96,6,0.62,0.97,0.73,0.3,0.0,0,0.43
+9488,destination,Hoi An,Vietnam,couple,offbeat,offbeat,4250.03,5,0.63,0.9,0.76,0.29,0.25,1,0.47
+9263,trek,Annapurna Circuit,Nepal,family,nature,offbeat,3397.74,2,0.39,0.9,0.25,0.28,0.0,1,0.36
+9480,event,Naadam Festival,Mongolia,couple,spiritual,relaxed,2735.56,10,0.39,0.7,0.84,0.35,0.0,0,0.37
+9207,destination,Cusco,Peru,couple,nature,luxury,4589.64,3,0.78,0.8,0.89,0.12,0.18,0,0.36
+9126,trek,Rinjani Trek,Indonesia,solo,food,relaxed,2617.06,3,0.7,0.8,0.95,0.27,0.23,0,0.44
+9622,trek,Torres del Paine W Trek,Chile,couple,offbeat,thrill,1469.85,11,0.73,0.76,0.75,0.62,0.61,0,0.63
+9920,event,Timkat Festival,Ethiopia,couple,culture,luxury,4765.19,3,0.52,0.8,0.96,0.26,0.0,0,0.38
+9034,trek,Annapurna Circuit,Nepal,solo,nature,spiritual,7298.42,12,0.42,0.3,0.95,0.14,0.0,0,0.16
+9324,event,Bhutan Tsechu,Bhutan,solo,food,budget,3445.62,6,0.34,0.7,0.72,0.12,0.0,0,0.28
+9791,trek,Inca Trail,Peru,couple,nature,relaxed,7885.52,10,0.76,0.9,0.75,0.24,0.0,0,0.39
+9884,trek,Inca Trail,Peru,family,culture,budget,1540.22,6,0.45,0.99,0.5,0.58,0.59,0,0.65
+9218,destination,Kyoto,Japan,solo,adventure,thrill,7584.23,6,0.57,0.9,0.77,0.35,0.0,0,0.43
+9422,destination,Cappadocia,Turkey,family,spiritual,budget,3659.82,11,0.51,0.9,0.77,0.26,0.37,1,0.49
+9647,trek,Everest Base Camp,Nepal,family,culture,thrill,5751.6,10,0.4,0.5,0.25,0.32,0.0,0,0.26
+9530,destination,Swiss Alps,Switzerland,family,adventure,relaxed,123.93,11,0.71,0.8,0.97,0.58,0.92,0,0.74
+9669,destination,Swiss Alps,Switzerland,family,adventure,budget,2015.66,8,0.51,0.93,0.92,0.19,0.7,0,0.57
+9565,destination,Kyoto,Japan,solo,spiritual,offbeat,1811.93,10,0.75,0.5,0.99,0.26,0.74,1,0.46
+9370,event,Lantern Festival,Vietnam,family,culture,offbeat,1590.67,2,0.31,0.89,0.71,0.99,0.3,1,0.74
+9479,trek,Kumano Kodo,Japan,couple,nature,thrill,6025.85,6,0.47,0.83,0.95,0.4,0.0,0,0.45
+9306,event,Durga Puja,India,couple,culture,relaxed,4621.54,10,0.94,0.92,0.91,0.42,0.0,0,0.48
+9221,event,Songkran Festival,Thailand,couple,offbeat,relaxed,7059.28,3,0.64,0.9,0.71,0.6,0.0,0,0.52
+9224,trek,Everest Base Camp,Nepal,couple,culture,offbeat,5989.52,5,0.61,0.76,0.65,0.38,0.0,1,0.39
+9564,event,Cherry Blossom Festival,Japan,solo,adventure,luxury,6113.81,8,0.46,0.6,0.93,0.14,0.0,0,0.26
+9979,destination,Varanasi,India,solo,food,luxury,6081.28,6,0.6,0.7,0.99,0.14,0.0,0,0.3
+9669,event,Inti Raymi,Peru,couple,offbeat,budget,1440.35,7,0.69,0.9,0.79,0.54,0.38,0,0.6
+9861,trek,Everest Base Camp,Nepal,family,offbeat,relaxed,4594.9,3,0.47,0.83,0.25,0.57,0.0,0,0.44
+9490,trek,Snowman Trek,Bhutan,solo,spiritual,luxury,1805.85,11,0.83,0.9,0.95,0.46,0.5,1,0.62
+9406,event,Bhutan Tsechu,Bhutan,couple,food,budget,971.25,8,0.72,0.9,0.73,0.12,0.61,0,0.49
+9104,destination,Cusco,Peru,family,spiritual,offbeat,5962.64,7,0.72,0.85,0.96,0.26,0.0,1,0.4
+9843,trek,Rinjani Trek,Indonesia,family,spiritual,offbeat,4950.73,8,0.47,0.79,0.25,0.4,0.0,1,0.37
+9593,trek,Snowman Trek,Bhutan,solo,nature,spiritual,6914.42,11,0.85,0.9,0.95,0.77,0.0,1,0.62
+9675,destination,Zanzibar,Tanzania,solo,nature,thrill,6260.89,7,0.71,0.95,0.74,0.41,0.0,0,0.47
+9472,trek,Torres del Paine W Trek,Chile,family,food,budget,622.76,5,0.55,0.8,0.5,0.36,0.89,0,0.58
+9039,trek,Kumano Kodo,Japan,family,food,luxury,2736.19,2,0.72,0.8,0.85,0.57,0.19,0,0.54
+9152,event,Timkat Festival,Ethiopia,couple,food,budget,4556.51,8,0.86,0.3,0.93,0.41,0.0,0,0.27
+9138,event,Cherry Blossom Festival,Japan,couple,culture,relaxed,3593.98,4,0.89,0.97,0.87,0.28,0.0,0,0.44
+9452,destination,Marrakech,Morocco,solo,culture,luxury,5481.06,9,0.55,0.6,0.86,0.86,0.0,0,0.54
+9817,event,Songkran Festival,Thailand,solo,spiritual,luxury,2740.8,9,0.75,0.5,0.92,0.56,0.0,0,0.39
+9205,trek,Rinjani Trek,Indonesia,family,culture,spiritual,4612.33,2,0.63,0.7,0.25,0.23,0.0,0,0.29
+9026,trek,Laugavegur Trail,Iceland,solo,culture,thrill,5548.91,8,0.9,0.94,0.85,0.1,0.0,0,0.36
+9417,event,Timkat Festival,Ethiopia,couple,nature,relaxed,6240.05,10,0.94,0.1,0.75,0.42,0.0,0,0.19
+9953,destination,Bali,Indonesia,family,offbeat,offbeat,1586.07,6,0.7,0.79,0.76,0.17,0.78,1,0.51
+9021,trek,Laugavegur Trail,Iceland,solo,adventure,spiritual,5000.74,7,0.86,0.77,0.85,0.55,0.0,0,0.47
+9478,event,Lantern Festival,Vietnam,family,nature,thrill,4731.72,9,0.69,0.4,0.97,0.11,0.0,0,0.18
+9000,event,Pushkar Camel Fair,India,solo,nature,luxury,3840.91,11,0.65,0.96,0.93,0.53,0.0,0,0.54
+9121,event,Timkat Festival,Ethiopia,solo,culture,thrill,4493.3,5,0.54,0.6,0.92,0.47,0.0,0,0.39
+9413,destination,Cappadocia,Turkey,family,nature,thrill,2736.35,1,0.58,0.7,0.99,0.68,0.55,1,0.65
+9724,destination,Machu Picchu,Peru,family,nature,thrill,651.84,10,0.73,0.9,0.8,0.45,0.97,0,0.71
+9831,destination,Hoi An,Vietnam,solo,nature,luxury,4897.97,6,0.56,0.8,0.78,0.28,0.12,0,0.4
+9178,trek,Torres del Paine W Trek,Chile,couple,offbeat,budget,6776.66,3,0.94,0.76,0.75,0.74,0.0,0,0.53
+9644,trek,Kumano Kodo,Japan,couple,food,spiritual,331.34,8,0.85,0.79,0.95,0.48,0.99,0,0.71
+9992,event,Timkat Festival,Ethiopia,solo,nature,relaxed,1250.42,2,0.54,0.9,0.94,0.39,0.47,0,0.58
+9950,event,Cherry Blossom Festival,Japan,couple,offbeat,luxury,1508.76,8,0.65,0.6,0.77,0.66,0.35,0,0.54
+9467,destination,Pokhara,Nepal,solo,adventure,spiritual,738.82,1,0.72,0.2,0.96,0.31,0.95,0,0.43
+9543,trek,Snowman Trek,Bhutan,solo,food,relaxed,3555.36,3,0.31,0.4,0.95,0.29,0.0,1,0.25
+9114,event,Bhutan Tsechu,Bhutan,solo,culture,offbeat,7354.84,2,0.94,0.3,0.91,0.58,0.0,1,0.33
+9757,event,Lantern Festival,Vietnam,family,nature,offbeat,861.8,8,0.9,0.5,0.89,0.32,0.67,1,0.46
+9694,trek,Rinjani Trek,Indonesia,family,nature,luxury,4982.07,7,0.66,0.96,0.25,0.18,0.0,0,0.35
+9203,event,Gion Matsuri,Japan,family,spiritual,offbeat,4450.56,4,0.54,0.7,0.75,0.1,0.0,1,0.27
+9483,trek,Milford Track,New Zealand,family,offbeat,offbeat,7274.08,12,0.68,0.82,0.5,0.69,0.0,1,0.51
+9629,destination,Cusco,Peru,couple,spiritual,budget,3527.51,3,0.55,0.8,0.78,0.42,0.39,0,0.52
+9672,destination,Bali,Indonesia,family,food,thrill,2706.32,3,0.53,0.9,0.96,0.15,0.56,0,0.51
+9044,event,Bhutan Tsechu,Bhutan,solo,nature,offbeat,7573.78,1,0.48,0.2,0.83,0.46,0.0,1,0.25
+9444,destination,Pokhara,Nepal,family,nature,budget,6058.36,4,0.73,0.5,0.9,0.14,0.0,0,0.23
+9624,event,Songkran Festival,Thailand,solo,nature,spiritual,1152.53,5,0.44,0.9,0.81,0.42,0.52,0,0.59
+9654,trek,Everest Base Camp,Nepal,family,culture,thrill,7031.23,11,0.7,0.4,0.25,0.55,0.0,0,0.31
+9760,event,Timkat Festival,Ethiopia,family,culture,spiritual,6792.85,1,0.75,0.91,0.89,0.31,0.0,0,0.43
+9411,destination,Bali,Indonesia,solo,adventure,budget,3403.65,12,0.69,0.8,0.87,0.54,0.42,0,0.59
+9627,destination,Chefchaouen,Morocco,couple,food,offbeat,4395.61,8,0.55,0.7,0.93,0.26,0.22,1,0.4
+9374,event,Bhutan Tsechu,Bhutan,solo,spiritual,spiritual,6613.33,5,0.8,0.6,0.77,0.9,0.0,0,0.54
+9064,destination,Hoi An,Vietnam,couple,adventure,offbeat,7802.59,1,0.58,0.9,0.92,0.41,0.0,1,0.47
+9165,event,Timkat Festival,Ethiopia,couple,offbeat,budget,3542.64,8,0.32,0.3,0.88,0.51,0.0,0,0.3
+9973,trek,Everest Base Camp,Nepal,couple,nature,budget,7750.81,7,0.44,0.8,0.65,0.24,0.0,0,0.35
+9627,trek,Torres del Paine W Trek,Chile,solo,adventure,spiritual,4505.08,11,0.56,0.83,0.85,0.26,0.0,0,0.38
+9962,event,Inti Raymi,Peru,solo,offbeat,relaxed,6710.51,1,0.44,0.5,0.85,0.52,0.0,0,0.37
+9732,event,Timkat Festival,Ethiopia,solo,food,budget,6487.06,1,0.33,0.92,0.97,0.47,0.0,0,0.51
+9344,trek,Kumano Kodo,Japan,family,nature,thrill,4760.75,11,0.69,0.9,0.85,0.15,0.0,0,0.36
+9215,destination,Kyoto,Japan,couple,spiritual,relaxed,7592.5,2,0.56,0.9,0.91,0.23,0.0,0,0.4
+9882,event,Lantern Festival,Vietnam,solo,offbeat,thrill,4621.53,10,0.77,0.3,0.84,0.13,0.0,0,0.15
+9999,event,Songkran Festival,Thailand,couple,offbeat,offbeat,7991.49,10,0.55,0.4,0.85,0.54,0.0,1,0.35
+9277,event,Naadam Festival,Mongolia,solo,offbeat,relaxed,4019.21,2,0.63,0.5,0.87,0.41,0.0,0,0.33
+9822,trek,Kumano Kodo,Japan,couple,offbeat,offbeat,4889.74,4,0.69,0.86,0.95,0.55,0.0,1,0.52
+9872,destination,Varanasi,India,family,food,budget,5583.91,10,0.8,0.77,0.88,0.15,0.0,0,0.32
+9493,trek,Snowman Trek,Bhutan,family,nature,spiritual,2445.49,12,0.89,0.8,0.25,0.69,0.28,1,0.53
+9775,event,Inti Raymi,Peru,solo,culture,spiritual,541.62,3,0.52,0.7,0.9,0.91,0.83,0,0.8
+9714,trek,Torres del Paine W Trek,Chile,family,offbeat,offbeat,6789.02,5,0.64,0.8,0.5,0.7,0.0,1,0.5
+9698,event,Bhutan Tsechu,Bhutan,family,adventure,spiritual,619.77,10,0.87,0.95,0.85,0.34,0.79,0,0.65
+9553,event,Gion Matsuri,Japan,couple,offbeat,spiritual,6817.05,12,0.32,0.5,0.79,0.41,0.0,0,0.32
+9147,trek,Annapurna Circuit,Nepal,solo,adventure,budget,2602.65,7,0.92,0.8,0.95,0.97,0.23,0,0.72
+9301,event,Cherry Blossom Festival,Japan,solo,nature,relaxed,3194.29,4,0.67,0.95,0.78,0.99,0.0,0,0.7
+9384,trek,Annapurna Circuit,Nepal,solo,culture,offbeat,2462.96,12,0.44,0.3,0.95,0.27,0.28,1,0.28
+9906,destination,Cappadocia,Turkey,solo,nature,spiritual,4357.93,2,0.51,0.8,0.7,0.68,0.23,1,0.57
+9029,trek,Snowman Trek,Bhutan,solo,food,offbeat,4042.54,12,0.49,0.8,0.95,0.41,0.0,1,0.44
+9207,event,Durga Puja,India,family,food,budget,1729.67,2,0.68,0.3,0.93,0.57,0.24,0,0.39
+9446,trek,Everest Base Camp,Nepal,couple,nature,relaxed,7417.27,4,0.83,0.91,0.65,0.11,0.0,0,0.34
+9140,event,Gion Matsuri,Japan,family,adventure,relaxed,3542.64,11,0.57,0.6,0.88,0.13,0.0,0,0.26
+9716,destination,Bali,Indonesia,family,culture,spiritual,505.39,7,0.72,0.82,0.9,0.46,1.0,0,0.71
+9093,event,Songkran Festival,Thailand,family,offbeat,budget,1427.4,3,0.57,0.9,1.0,0.23,0.39,0,0.5
+9694,event,Bhutan Tsechu,Bhutan,solo,adventure,spiritual,7850.59,7,0.75,0.8,0.84,0.58,0.0,0,0.5
+9569,destination,Swiss Alps,Switzerland,couple,spiritual,spiritual,7478.62,3,0.76,0.7,0.78,0.15,0.0,0,0.29
+9991,event,Timkat Festival,Ethiopia,family,offbeat,thrill,352.0,1,0.36,0.91,0.91,0.33,0.92,0,0.67
+9924,trek,Everest Base Camp,Nepal,family,food,budget,6293.03,4,0.67,0.77,0.25,0.11,0.0,0,0.27
+9046,trek,Laugavegur Trail,Iceland,family,culture,offbeat,5099.6,8,0.55,0.8,0.5,0.37,0.0,1,0.39
+9704,destination,Banff,Canada,couple,culture,spiritual,3534.78,12,0.63,0.7,0.84,0.29,0.39,0,0.44
+9348,trek,Annapurna Circuit,Nepal,family,nature,offbeat,866.55,4,0.91,0.98,0.25,0.16,0.81,1,0.52
+9674,trek,Snowman Trek,Bhutan,solo,nature,offbeat,1057.93,2,0.81,0.3,0.95,0.82,0.75,1,0.61
+9344,destination,Banff,Canada,couple,spiritual,thrill,666.83,12,0.65,0.7,0.74,0.2,0.97,0,0.54
+9940,event,Cherry Blossom Festival,Japan,couple,culture,thrill,7963.66,5,0.87,0.9,0.97,0.41,0.0,0,0.48
+9963,destination,Cusco,Peru,solo,offbeat,thrill,5805.73,12,0.65,0.7,0.8,0.31,0.0,0,0.35
+9737,destination,Varanasi,India,solo,culture,offbeat,590.1,8,0.66,0.8,0.86,0.52,0.98,1,0.71
+9382,destination,Hoi An,Vietnam,family,spiritual,budget,3287.91,11,0.64,0.3,0.98,0.37,0.44,0,0.36
+9729,destination,Cappadocia,Turkey,solo,nature,offbeat,2889.55,6,0.67,0.95,0.76,0.62,0.52,1,0.68
+9034,trek,Torres del Paine W Trek,Chile,couple,nature,luxury,7136.04,3,0.78,0.75,0.75,0.86,0.0,0,0.58
+9541,trek,Snowman Trek,Bhutan,solo,nature,relaxed,1694.08,9,0.89,0.95,0.95,0.84,0.54,1,0.8
+9929,destination,Swiss Alps,Switzerland,solo,adventure,thrill,1550.01,10,0.54,0.9,0.85,0.15,0.79,0,0.56
+9919,destination,Siem Reap,Cambodia,couple,nature,budget,1568.34,9,0.67,0.8,0.99,0.44,0.79,0,0.65
+9384,destination,Varanasi,India,family,adventure,spiritual,7172.07,8,0.59,0.8,0.94,0.39,0.0,0,0.43
+9511,destination,Swiss Alps,Switzerland,family,food,thrill,4991.19,12,0.6,0.7,0.72,0.55,0.1,0,0.46
+9334,event,Inti Raymi,Peru,couple,adventure,thrill,2529.81,11,0.71,0.5,0.98,0.39,0.0,0,0.33
+9628,trek,Markha Valley Trek,India,couple,nature,budget,930.97,1,0.79,0.5,0.65,0.83,0.79,0,0.66
+9109,event,Pushkar Camel Fair,India,family,adventure,thrill,1726.33,7,0.63,0.7,0.71,0.55,0.24,0,0.49
+9951,event,Lantern Festival,Vietnam,solo,food,relaxed,6519.61,7,0.77,0.6,0.73,0.24,0.0,0,0.29
+9807,trek,Kumano Kodo,Japan,couple,nature,offbeat,4689.68,3,0.72,0.9,0.95,0.24,0.0,1,0.41
+9360,event,Inti Raymi,Peru,solo,spiritual,spiritual,1720.5,11,0.76,0.5,0.92,0.28,0.24,0,0.34
+9297,event,Bhutan Tsechu,Bhutan,solo,culture,spiritual,7189.72,5,0.76,0.6,0.93,0.56,0.0,0,0.43
+9918,event,Songkran Festival,Thailand,solo,food,thrill,3580.22,8,0.36,0.6,0.8,0.91,0.0,0,0.55
+9834,trek,Rinjani Trek,Indonesia,solo,nature,spiritual,2655.54,12,0.66,0.7,0.95,0.18,0.21,0,0.37
+9333,trek,Kumano Kodo,Japan,couple,culture,thrill,1490.9,11,0.54,0.9,0.95,0.29,0.6,0,0.58
+9581,event,Bhutan Tsechu,Bhutan,solo,culture,offbeat,2857.98,7,0.91,0.8,0.77,0.13,0.0,1,0.32
+9293,event,Durga Puja,India,solo,food,budget,5155.91,4,0.91,0.5,0.94,0.29,0.0,0,0.29
+9455,trek,Torres del Paine W Trek,Chile,couple,culture,luxury,6781.24,12,0.31,1.0,0.75,0.11,0.0,0,0.37
+9422,destination,Hoi An,Vietnam,couple,food,relaxed,7435.93,5,0.68,0.9,0.7,0.96,0.0,0,0.66
+9993,event,Bhutan Tsechu,Bhutan,couple,nature,relaxed,4302.12,10,0.78,0.84,0.84,0.58,0.0,0,0.51
+9763,event,Naadam Festival,Mongolia,couple,nature,offbeat,3137.25,5,0.46,0.8,0.88,0.33,0.0,1,0.4
+9112,trek,Snowman Trek,Bhutan,solo,adventure,luxury,6153.1,10,0.73,0.88,0.95,0.38,0.0,1,0.46
+9276,trek,Everest Base Camp,Nepal,couple,culture,thrill,412.21,3,0.79,0.89,0.65,0.39,0.96,0,0.66
+9740,trek,Kumano Kodo,Japan,solo,adventure,luxury,6371.75,4,0.89,0.88,0.9,0.49,0.0,0,0.49
+9740,destination,Kyoto,Japan,solo,offbeat,offbeat,5647.08,6,0.56,0.9,0.87,0.21,0.0,1,0.39
+9127,event,Durga Puja,India,solo,culture,thrill,4011.11,8,0.93,0.9,0.74,0.17,0.0,0,0.36
+9671,destination,Cusco,Peru,family,adventure,spiritual,6162.23,12,0.67,0.7,0.71,0.59,0.0,0,0.45
+9820,event,Timkat Festival,Ethiopia,family,nature,budget,472.08,2,0.32,0.9,0.75,0.17,0.86,0,0.57
+9133,event,Bhutan Tsechu,Bhutan,family,offbeat,relaxed,6735.48,1,0.41,0.2,0.74,0.45,0.0,0,0.24
+9060,trek,Kumano Kodo,Japan,family,spiritual,luxury,1235.67,12,0.55,0.8,0.85,0.98,0.69,0,0.82
+9710,event,Pushkar Camel Fair,India,couple,nature,relaxed,6380.66,1,0.89,0.1,0.84,0.51,0.0,0,0.23
+9319,destination,Cusco,Peru,couple,food,thrill,820.48,1,0.63,0.6,0.9,0.29,0.94,0,0.55
+9212,destination,Hoi An,Vietnam,solo,food,budget,7145.12,10,0.62,0.4,0.91,0.87,0.0,0,0.48
+9085,event,Gion Matsuri,Japan,solo,spiritual,luxury,7783.36,5,0.37,0.8,0.76,0.18,0.0,0,0.34
+9845,event,Naadam Festival,Mongolia,solo,offbeat,offbeat,3861.01,7,0.9,0.89,0.73,0.41,0.0,1,0.45
+9130,destination,Chefchaouen,Morocco,family,nature,spiritual,3663.74,1,0.76,0.8,0.98,0.85,0.37,1,0.71
+9457,trek,Torres del Paine W Trek,Chile,solo,culture,spiritual,6621.14,3,0.31,0.82,0.85,0.56,0.0,0,0.5
+9193,trek,Inca Trail,Peru,family,adventure,thrill,6258.6,8,0.66,0.8,0.5,0.8,0.0,0,0.54
+9528,event,Bhutan Tsechu,Bhutan,solo,spiritual,spiritual,3740.96,9,0.7,0.97,0.76,0.85,0.0,0,0.65
+9702,trek,Torres del Paine W Trek,Chile,solo,adventure,luxury,1183.57,2,0.63,0.82,0.85,0.49,0.71,0,0.64
+9429,trek,Annapurna Circuit,Nepal,solo,nature,relaxed,5053.42,8,0.74,0.7,0.95,0.28,0.0,0,0.35
+9637,event,Songkran Festival,Thailand,solo,food,thrill,4515.98,2,0.68,0.8,0.81,0.82,0.0,0,0.58
+9291,event,Inti Raymi,Peru,family,offbeat,spiritual,1461.96,5,0.8,0.9,0.71,0.46,0.37,0,0.56
+9902,event,Lantern Festival,Vietnam,couple,spiritual,thrill,4553.74,5,0.47,0.8,0.98,0.2,0.0,0,0.36
+9715,trek,Rinjani Trek,Indonesia,solo,spiritual,luxury,945.27,6,0.8,0.83,0.95,0.2,0.78,0,0.56
+9998,destination,Marrakech,Morocco,solo,culture,budget,7719.64,12,0.74,0.3,0.97,0.84,0.0,0,0.44
+9210,event,Pushkar Camel Fair,India,family,nature,spiritual,1805.14,12,0.86,0.9,0.79,0.56,0.2,0,0.56
+9429,destination,Cappadocia,Turkey,couple,offbeat,budget,2347.09,9,0.53,0.76,0.93,0.96,0.63,1,0.8
+9986,destination,Hoi An,Vietnam,family,culture,spiritual,1066.26,6,0.63,0.8,0.89,0.53,0.89,0,0.7
+9301,trek,Laugavegur Trail,Iceland,family,food,budget,2717.98,9,0.47,0.9,0.5,0.15,0.19,0,0.38
+9982,trek,Snowman Trek,Bhutan,family,spiritual,spiritual,7751.36,12,0.63,0.8,0.25,0.33,0.0,1,0.35
+9239,event,Inti Raymi,Peru,couple,spiritual,offbeat,1558.13,7,0.82,0.9,0.8,0.43,0.32,1,0.54
+9297,event,Lantern Festival,Vietnam,solo,food,thrill,243.32,3,0.62,0.87,0.78,0.41,0.98,0,0.68
+9830,trek,Laugavegur Trail,Iceland,family,culture,spiritual,3971.35,10,0.94,0.8,0.5,0.19,0.0,0,0.32
+9939,destination,Cappadocia,Turkey,couple,spiritual,spiritual,4690.17,12,0.66,0.8,0.73,0.48,0.16,1,0.48
+9467,trek,Markha Valley Trek,India,solo,offbeat,budget,5436.19,8,0.75,0.98,0.95,0.71,0.0,0,0.62
+9871,event,Bhutan Tsechu,Bhutan,couple,adventure,relaxed,144.03,6,0.74,0.7,0.81,0.42,0.97,0,0.63
+9145,destination,Varanasi,India,family,spiritual,offbeat,6109.35,12,0.54,0.81,0.81,0.83,0.0,1,0.59
+9629,destination,Lofoten Islands,Norway,solo,culture,spiritual,5292.25,2,0.57,0.6,0.78,0.37,0.04,0,0.35
+9531,trek,Annapurna Circuit,Nepal,solo,food,budget,3415.53,4,0.59,0.94,0.95,0.2,0.0,0,0.4
+9346,trek,Everest Base Camp,Nepal,couple,spiritual,luxury,7926.45,1,0.41,0.8,0.65,0.36,0.0,0,0.39
+9676,destination,Cappadocia,Turkey,couple,nature,budget,3803.6,9,0.67,0.78,0.94,0.74,0.34,1,0.65
+9715,event,Songkran Festival,Thailand,couple,adventure,spiritual,3302.69,8,0.71,0.6,0.74,0.13,0.0,0,0.25
+9613,destination,Machu Picchu,Peru,solo,adventure,spiritual,3292.31,8,0.56,0.85,0.93,0.88,0.44,0,0.75
+9697,event,Songkran Festival,Thailand,couple,spiritual,luxury,6474.15,3,0.58,0.9,0.97,0.4,0.0,0,0.47
+9536,trek,Everest Base Camp,Nepal,solo,offbeat,spiritual,6589.81,6,0.37,0.9,0.95,0.1,0.0,0,0.35
+9216,event,Gion Matsuri,Japan,solo,adventure,thrill,5159.97,8,0.39,0.9,0.93,0.26,0.0,0,0.41
+9708,event,Inti Raymi,Peru,couple,spiritual,thrill,254.47,5,0.95,0.9,0.81,0.25,0.97,0,0.63
+9956,destination,Zanzibar,Tanzania,family,culture,offbeat,5308.2,2,0.55,0.6,0.81,0.14,0.04,1,0.27
+9421,event,Songkran Festival,Thailand,family,spiritual,offbeat,538.46,3,0.56,0.9,0.71,0.57,0.83,1,0.71
+9135,trek,Milford Track,New Zealand,couple,spiritual,thrill,5231.24,10,0.9,0.91,0.75,0.41,0.0,0,0.46
+9942,destination,Cappadocia,Turkey,family,culture,spiritual,2232.54,6,0.71,0.82,0.73,0.39,0.65,1,0.57
+9357,trek,Inca Trail,Peru,solo,offbeat,budget,527.37,8,0.92,0.79,0.85,0.34,0.92,0,0.62
+9103,trek,Rinjani Trek,Indonesia,couple,adventure,offbeat,3600.12,4,0.64,0.9,0.65,0.8,0.0,1,0.59
+9489,destination,Cappadocia,Turkey,family,spiritual,thrill,6866.38,7,0.74,0.86,0.79,0.24,0.0,1,0.38
+9592,trek,Milford Track,New Zealand,solo,culture,thrill,6364.58,3,0.43,0.76,0.85,0.49,0.0,0,0.45
+9779,trek,Annapurna Circuit,Nepal,family,adventure,luxury,7515.96,2,0.64,0.9,0.25,0.91,0.0,0,0.58
+9797,trek,Laugavegur Trail,Iceland,family,spiritual,luxury,1340.56,7,0.44,0.86,0.5,0.39,0.65,0,0.56
+9439,event,Inti Raymi,Peru,couple,offbeat,budget,980.49,5,0.48,0.9,0.81,0.36,0.61,0,0.59
+9386,destination,Marrakech,Morocco,family,spiritual,luxury,6934.16,8,0.51,0.7,0.97,0.12,0.0,0,0.29
+9688,event,Lantern Festival,Vietnam,family,offbeat,thrill,4057.23,2,0.69,0.81,0.95,0.52,0.0,0,0.49
+9113,trek,Everest Base Camp,Nepal,solo,culture,offbeat,3521.07,7,0.51,0.8,0.95,0.32,0.0,1,0.4
+9668,event,Pushkar Camel Fair,India,couple,spiritual,offbeat,3377.74,2,0.88,0.2,0.86,0.48,0.0,1,0.25
+9282,trek,Everest Base Camp,Nepal,family,adventure,budget,1139.16,2,0.95,0.9,0.25,0.85,0.72,0,0.71
+9684,trek,Kumano Kodo,Japan,couple,nature,budget,7207.77,9,0.85,0.93,0.95,0.25,0.0,0,0.42
+9883,trek,Everest Base Camp,Nepal,solo,culture,relaxed,2486.68,3,0.6,0.76,0.95,0.32,0.27,0,0.46
+9662,destination,Lofoten Islands,Norway,solo,adventure,thrill,6468.81,5,0.55,0.9,0.99,0.35,0.0,0,0.45
+9027,event,Inti Raymi,Peru,family,adventure,spiritual,4661.58,8,0.35,0.8,0.87,0.34,0.0,0,0.41
+9558,destination,Marrakech,Morocco,family,spiritual,spiritual,4806.82,11,0.54,0.4,0.94,0.28,0.14,0,0.28
+9757,destination,Chefchaouen,Morocco,solo,food,spiritual,4517.82,12,0.56,0.3,0.78,0.35,0.2,1,0.28
+9458,destination,Cappadocia,Turkey,couple,offbeat,thrill,6777.24,4,0.62,0.95,0.87,1.0,0.0,1,0.71
+9396,event,Durga Puja,India,couple,adventure,budget,6559.16,1,0.42,0.2,0.75,0.47,0.0,0,0.25
+9739,trek,Snowman Trek,Bhutan,couple,spiritual,luxury,2288.07,5,0.37,0.6,0.65,0.26,0.34,1,0.37
+9264,event,Pushkar Camel Fair,India,family,adventure,spiritual,7821.99,8,0.8,0.8,0.79,0.25,0.0,0,0.36
+9047,destination,Chefchaouen,Morocco,solo,adventure,offbeat,1944.78,1,0.74,0.8,0.85,0.36,0.71,1,0.58
+9608,destination,Kyoto,Japan,couple,food,luxury,3737.04,10,0.65,0.5,0.97,0.58,0.35,0,0.49
+9372,event,Inti Raymi,Peru,solo,spiritual,spiritual,1554.68,11,0.69,0.5,0.77,0.38,0.32,0,0.39
+9008,trek,Milford Track,New Zealand,family,adventure,budget,490.46,8,0.34,0.8,0.5,0.57,0.94,0,0.67
+9922,event,Songkran Festival,Thailand,family,culture,relaxed,823.3,3,0.62,0.9,0.89,0.16,0.69,0,0.54
+9357,destination,Bali,Indonesia,solo,culture,budget,5912.66,11,0.54,0.9,0.75,0.35,0.0,0,0.43
+9495,destination,Cappadocia,Turkey,couple,spiritual,offbeat,3923.96,7,0.8,0.81,0.93,0.3,0.32,1,0.48
+9216,destination,Varanasi,India,couple,offbeat,relaxed,494.91,2,0.63,0.95,0.98,0.53,1.0,0,0.79
+9982,trek,Torres del Paine W Trek,Chile,family,spiritual,luxury,5551.25,11,0.41,0.88,0.5,0.35,0.0,0,0.4
+9224,event,Lantern Festival,Vietnam,couple,nature,thrill,658.78,11,0.48,0.2,0.82,0.14,0.77,0,0.31
+9677,trek,Annapurna Circuit,Nepal,couple,offbeat,relaxed,4986.52,12,0.7,0.3,0.65,0.33,0.0,0,0.22
+9817,trek,Inca Trail,Peru,solo,adventure,spiritual,5913.18,4,0.48,0.9,0.85,0.89,0.0,0,0.65
+9163,destination,Cappadocia,Turkey,family,nature,thrill,90.7,11,0.7,0.9,0.74,0.8,0.92,1,0.82
+9648,event,Timkat Festival,Ethiopia,solo,nature,relaxed,4732.15,8,0.48,0.3,0.91,0.48,0.0,0,0.29
+9976,event,Songkran Festival,Thailand,solo,culture,spiritual,3844.83,7,0.41,0.7,0.72,0.35,0.0,0,0.36
+9440,destination,Chefchaouen,Morocco,family,spiritual,offbeat,4223.24,11,0.75,0.4,0.98,0.36,0.26,1,0.35
+9305,event,Durga Puja,India,family,spiritual,budget,2423.41,1,0.44,0.2,0.87,0.81,0.0,0,0.38
+9285,event,Pushkar Camel Fair,India,solo,food,luxury,5467.13,10,0.54,0.95,0.99,0.5,0.0,0,0.53
+9683,trek,Everest Base Camp,Nepal,family,adventure,offbeat,2902.13,10,0.78,0.5,0.25,0.85,0.13,1,0.47
+9425,destination,Chefchaouen,Morocco,family,food,relaxed,4151.31,9,0.67,0.6,0.76,0.21,0.27,1,0.34
+9252,destination,Siem Reap,Cambodia,couple,adventure,luxury,7902.23,1,0.62,0.89,0.91,0.37,0.0,0,0.45
+9854,destination,Siem Reap,Cambodia,solo,adventure,budget,1162.71,2,0.52,0.92,0.71,0.43,0.87,0,0.67
+9055,trek,Milford Track,New Zealand,couple,culture,thrill,2107.06,11,0.69,0.76,0.75,0.1,0.4,0,0.39
+9041,event,Inti Raymi,Peru,family,spiritual,relaxed,4717.45,4,0.84,0.8,0.7,0.38,0.0,0,0.41
+9960,event,Songkran Festival,Thailand,family,offbeat,budget,5787.39,11,0.89,0.3,0.8,0.58,0.0,0,0.32
+9872,destination,Pokhara,Nepal,family,culture,thrill,4096.47,12,0.7,0.9,0.94,0.56,0.28,0,0.6
+9841,trek,Milford Track,New Zealand,family,offbeat,offbeat,2948.6,10,0.45,0.87,0.5,0.67,0.12,1,0.54
+9379,event,Bhutan Tsechu,Bhutan,solo,spiritual,relaxed,1933.07,11,0.64,0.9,0.86,0.93,0.13,0,0.7
+9059,destination,Chefchaouen,Morocco,solo,offbeat,budget,1951.12,4,0.78,0.92,0.71,0.87,0.71,1,0.8
+9303,trek,Kumano Kodo,Japan,couple,adventure,thrill,7890.97,6,0.63,0.8,0.95,0.13,0.0,0,0.33
+9827,event,Cherry Blossom Festival,Japan,family,nature,luxury,3393.32,6,0.67,0.8,0.75,0.84,0.0,0,0.59
+9612,destination,Bali,Indonesia,family,adventure,budget,709.49,5,0.57,0.82,0.78,0.24,0.96,0,0.6
+9610,event,Naadam Festival,Mongolia,solo,adventure,relaxed,7053.52,4,0.45,0.7,0.89,0.92,0.0,0,0.6
+9521,trek,Torres del Paine W Trek,Chile,solo,offbeat,relaxed,4725.85,8,0.64,0.7,0.85,0.83,0.0,0,0.56
+9951,destination,Marrakech,Morocco,family,adventure,luxury,6960.42,1,0.71,0.8,0.79,0.15,0.0,0,0.33
+9800,destination,Hoi An,Vietnam,couple,adventure,relaxed,1102.84,8,0.77,0.6,0.92,0.6,0.88,0,0.66
+9236,destination,Bali,Indonesia,family,spiritual,luxury,4377.5,11,0.6,0.9,0.81,0.14,0.22,0,0.41
+9553,destination,Siem Reap,Cambodia,solo,spiritual,relaxed,7691.82,5,0.53,0.7,0.99,0.59,0.0,0,0.48
+9531,event,Naadam Festival,Mongolia,solo,food,relaxed,5126.98,12,0.94,0.5,0.96,0.32,0.0,0,0.3
+9883,destination,Machu Picchu,Peru,family,adventure,luxury,6422.07,7,0.62,0.83,0.97,0.89,0.0,0,0.64
+9273,destination,Swiss Alps,Switzerland,solo,nature,luxury,7800.58,6,0.59,0.87,0.85,0.83,0.0,0,0.62
+9376,trek,Markha Valley Trek,India,family,food,spiritual,3068.35,5,0.31,0.9,0.25,0.2,0.08,0,0.35
+9611,event,Inti Raymi,Peru,solo,culture,relaxed,6141.05,5,0.82,0.9,0.78,0.81,0.0,0,0.61
+9349,destination,Bali,Indonesia,couple,spiritual,offbeat,7535.72,8,0.76,0.85,0.95,0.23,0.0,1,0.39
+9689,event,Durga Puja,India,solo,nature,offbeat,5504.11,10,0.77,0.99,0.81,0.21,0.0,1,0.41
+9131,event,Inti Raymi,Peru,couple,adventure,thrill,3008.61,12,0.38,0.4,0.95,0.43,0.0,0,0.31
+9185,event,Inti Raymi,Peru,couple,adventure,relaxed,1603.1,5,0.33,0.9,0.9,0.57,0.3,0,0.61
+9072,trek,Laugavegur Trail,Iceland,family,nature,luxury,7887.25,7,0.8,0.77,0.5,0.82,0.0,0,0.54
+9445,trek,Rinjani Trek,Indonesia,couple,spiritual,spiritual,1520.56,12,0.35,0.7,0.65,0.13,0.59,0,0.41
+9678,destination,Lofoten Islands,Norway,couple,culture,spiritual,1082.19,5,0.72,0.9,0.97,0.21,0.88,0,0.62
+9851,destination,Machu Picchu,Peru,couple,spiritual,offbeat,6567.54,7,0.63,0.77,0.71,0.41,0.0,1,0.41
+9939,event,Songkran Festival,Thailand,solo,adventure,budget,1615.63,6,0.88,0.8,0.82,0.33,0.29,0,0.47
+9928,trek,Inca Trail,Peru,family,food,luxury,3223.95,11,0.83,0.8,0.5,0.31,0.03,0,0.37
+9342,destination,Hoi An,Vietnam,couple,food,spiritual,2794.09,12,0.53,0.2,0.92,0.96,0.54,0,0.58
+9211,destination,Bali,Indonesia,family,offbeat,relaxed,1043.66,2,0.55,0.8,0.84,0.46,0.89,0,0.66
+9895,event,Lantern Festival,Vietnam,solo,nature,offbeat,2460.36,6,0.39,0.7,0.99,0.25,0.0,1,0.34
+9515,event,Inti Raymi,Peru,solo,spiritual,offbeat,2772.58,7,0.85,0.9,0.77,0.29,0.0,1,0.41
+9186,trek,Annapurna Circuit,Nepal,family,adventure,spiritual,2842.96,7,0.81,0.8,0.25,0.8,0.15,0,0.54
+9560,event,Inti Raymi,Peru,family,culture,budget,2210.45,10,0.55,0.6,0.82,0.84,0.0,0,0.53
+9776,event,Songkran Festival,Thailand,family,food,spiritual,7332.06,5,0.83,0.9,0.86,0.95,0.0,0,0.68
+9757,event,Naadam Festival,Mongolia,solo,culture,thrill,3057.16,6,0.9,0.9,0.78,0.41,0.0,0,0.46
+9625,event,Gion Matsuri,Japan,family,spiritual,relaxed,4857.72,6,0.82,0.9,0.86,0.58,0.0,0,0.53
+9054,destination,Bali,Indonesia,couple,food,relaxed,207.0,11,0.67,0.9,0.97,0.44,0.94,0,0.72
+9403,trek,Markha Valley Trek,India,solo,offbeat,thrill,6351.76,6,0.87,0.81,0.95,0.74,0.0,0,0.57
+9420,destination,Chefchaouen,Morocco,family,nature,spiritual,254.37,11,0.51,0.4,0.73,0.61,0.95,1,0.59
+9159,trek,Markha Valley Trek,India,couple,adventure,thrill,1063.08,9,0.49,0.99,0.65,0.4,0.75,0,0.65
+9097,trek,Rinjani Trek,Indonesia,family,culture,relaxed,6384.44,12,0.92,0.7,0.25,0.25,0.0,0,0.29
+9731,trek,Annapurna Circuit,Nepal,family,spiritual,spiritual,1846.86,9,0.43,0.6,0.25,0.45,0.48,0,0.43
+9149,event,Gion Matsuri,Japan,solo,culture,relaxed,6604.63,8,0.69,0.9,0.86,0.96,0.0,0,0.68
+9449,event,Songkran Festival,Thailand,solo,adventure,spiritual,1758.72,5,0.4,0.9,0.7,0.16,0.22,0,0.41
+9343,event,Bhutan Tsechu,Bhutan,family,offbeat,budget,5427.43,2,0.49,0.3,0.71,0.16,0.0,0,0.16
+9584,event,Naadam Festival,Mongolia,couple,spiritual,offbeat,6111.27,3,0.46,0.6,0.81,0.55,0.0,1,0.41
+9532,event,Timkat Festival,Ethiopia,couple,spiritual,thrill,1438.33,12,0.91,0.1,0.88,0.82,0.38,0,0.45
+9344,destination,Machu Picchu,Peru,family,culture,spiritual,3100.57,10,0.68,0.9,0.89,0.28,0.48,0,0.53
+9252,trek,Inca Trail,Peru,couple,adventure,thrill,6553.54,5,0.6,0.82,0.75,0.99,0.0,0,0.65
+9499,event,Timkat Festival,Ethiopia,family,spiritual,thrill,2029.56,2,0.72,0.9,0.81,0.95,0.09,0,0.69
+9662,trek,Rinjani Trek,Indonesia,solo,food,luxury,5448.51,5,0.78,0.82,0.95,0.46,0.0,0,0.47
+9031,event,Cherry Blossom Festival,Japan,couple,adventure,budget,6699.02,6,0.33,0.8,0.93,0.12,0.0,0,0.32
+9386,trek,Inca Trail,Peru,couple,food,budget,51.85,12,0.91,0.7,0.75,0.2,0.92,0,0.53
+9890,event,Bhutan Tsechu,Bhutan,couple,food,luxury,5450.43,2,0.33,0.3,0.96,0.23,0.0,0,0.2
+9113,destination,Swiss Alps,Switzerland,family,food,relaxed,3012.21,11,0.61,0.8,0.78,0.41,0.5,0,0.54
+9646,trek,Annapurna Circuit,Nepal,family,adventure,budget,429.19,5,0.49,0.9,0.25,0.91,0.96,0,0.78
+9719,event,Gion Matsuri,Japan,solo,adventure,budget,1575.65,6,0.86,0.9,0.81,0.47,0.31,0,0.56
+9310,destination,Hoi An,Vietnam,family,spiritual,budget,4791.66,3,0.65,0.86,0.82,0.25,0.14,0,0.42
+9370,event,Durga Puja,India,family,nature,luxury,4960.68,7,0.91,0.8,0.84,0.59,0.0,0,0.5
+9340,destination,Machu Picchu,Peru,couple,spiritual,budget,974.45,4,0.61,0.9,0.83,0.5,0.91,0,0.72
+9365,event,Bhutan Tsechu,Bhutan,solo,spiritual,spiritual,2375.27,3,0.75,0.4,0.76,0.93,0.0,0,0.49
+9898,destination,Zanzibar,Tanzania,couple,food,relaxed,7486.25,9,0.58,0.77,0.72,0.38,0.0,0,0.4
+9874,event,Cherry Blossom Festival,Japan,family,nature,luxury,851.13,5,0.72,0.9,0.86,0.94,0.67,0,0.83
+9786,trek,Rinjani Trek,Indonesia,family,spiritual,offbeat,2840.24,5,0.84,0.76,0.25,0.56,0.15,1,0.45
+9547,destination,Bali,Indonesia,solo,offbeat,relaxed,1877.54,9,0.63,0.97,0.72,0.21,0.72,0,0.57
+9600,trek,Markha Valley Trek,India,couple,nature,relaxed,5839.59,4,0.38,0.8,0.65,0.83,0.0,0,0.57
+9412,event,Timkat Festival,Ethiopia,solo,offbeat,budget,6232.49,10,0.35,0.1,0.83,0.22,0.0,0,0.12
+9504,destination,Banff,Canada,family,spiritual,spiritual,7671.09,7,0.5,0.93,0.95,0.29,0.0,0,0.44
+9479,trek,Annapurna Circuit,Nepal,solo,culture,relaxed,3206.4,1,0.58,0.8,0.95,0.5,0.03,0,0.48
+9482,event,Inti Raymi,Peru,family,spiritual,offbeat,6726.11,1,0.82,0.5,0.74,0.1,0.0,1,0.2
+9418,trek,Rinjani Trek,Indonesia,solo,culture,budget,7688.47,11,0.87,0.8,0.95,0.51,0.0,0,0.48
+9926,event,Timkat Festival,Ethiopia,couple,adventure,budget,7987.41,12,0.55,0.1,0.82,0.24,0.0,0,0.13
+9668,event,Naadam Festival,Mongolia,couple,offbeat,relaxed,3095.66,1,0.51,0.4,0.8,0.45,0.0,0,0.31
+9778,destination,Banff,Canada,solo,culture,relaxed,6625.59,1,0.66,0.5,0.98,0.22,0.0,0,0.26
+9881,event,Inti Raymi,Peru,family,food,luxury,1334.48,8,0.35,0.8,0.96,0.43,0.43,0,0.56
+9534,event,Lantern Festival,Vietnam,family,food,budget,7043.35,10,0.54,0.3,0.84,0.39,0.0,0,0.25
+9728,trek,Markha Valley Trek,India,couple,offbeat,offbeat,831.91,7,0.39,0.98,0.65,0.82,0.82,1,0.81
+9218,destination,Hoi An,Vietnam,couple,food,budget,613.47,4,0.69,0.99,0.75,0.93,0.98,0,0.92
+9515,event,Durga Puja,India,couple,food,budget,4675.47,4,0.3,0.5,0.76,0.56,0.0,0,0.38
+9795,event,Pushkar Camel Fair,India,family,food,spiritual,3417.92,12,0.83,0.9,0.89,0.17,0.0,0,0.37
+9303,event,Lantern Festival,Vietnam,couple,nature,spiritual,7290.09,3,0.43,0.9,0.96,0.31,0.0,0,0.44
+9083,trek,Laugavegur Trail,Iceland,solo,nature,thrill,4961.52,1,0.63,0.5,0.85,0.86,0.0,0,0.5
+9278,event,Songkran Festival,Thailand,family,offbeat,thrill,4393.56,1,0.56,0.7,0.92,0.54,0.0,0,0.45
+9725,destination,Cappadocia,Turkey,family,adventure,thrill,1063.35,5,0.55,0.75,0.9,0.27,0.89,1,0.58
+9168,destination,Banff,Canada,solo,food,luxury,4711.12,4,0.8,0.8,0.79,0.32,0.16,0,0.43
+9033,event,Durga Puja,India,couple,adventure,luxury,5430.53,8,0.86,0.9,0.7,0.22,0.0,0,0.38
+9494,destination,Lofoten Islands,Norway,solo,food,luxury,5303.17,9,0.54,0.9,0.81,0.55,0.04,0,0.52
+9036,destination,Hoi An,Vietnam,solo,food,spiritual,4326.73,10,0.53,0.4,0.93,1.0,0.23,0,0.59
+9245,destination,Kyoto,Japan,couple,adventure,relaxed,2797.32,9,0.59,0.6,0.96,0.24,0.54,0,0.44
+9091,trek,Torres del Paine W Trek,Chile,family,adventure,budget,6622.55,9,0.51,0.8,0.5,0.44,0.0,0,0.41
+9157,destination,Marrakech,Morocco,couple,food,budget,2403.59,10,0.71,0.5,0.9,0.32,0.62,0,0.45
+9510,destination,Hoi An,Vietnam,family,offbeat,luxury,4463.28,8,0.79,0.6,0.99,0.37,0.21,0,0.41
+9259,trek,Annapurna Circuit,Nepal,solo,culture,offbeat,76.28,4,0.86,0.97,0.95,0.6,0.93,1,0.8
+9626,destination,Lofoten Islands,Norway,family,adventure,thrill,7385.26,6,0.57,0.79,0.77,0.41,0.0,0,0.42
+9006,trek,Annapurna Circuit,Nepal,solo,food,luxury,4544.08,11,0.83,0.4,0.95,0.32,0.0,0,0.27
+9586,trek,Annapurna Circuit,Nepal,family,food,thrill,7268.15,11,0.81,0.4,0.25,0.26,0.0,0,0.21
+9693,trek,Annapurna Circuit,Nepal,solo,adventure,budget,2358.87,11,0.4,0.4,0.95,0.95,0.31,0,0.59
+9548,destination,Marrakech,Morocco,couple,offbeat,relaxed,929.15,6,0.6,0.9,0.75,0.2,0.91,0,0.59
+9946,event,Inti Raymi,Peru,couple,nature,thrill,608.45,10,0.7,0.6,0.76,0.42,0.8,0,0.55
+9317,destination,Pokhara,Nepal,family,culture,relaxed,7206.59,11,0.61,0.9,0.76,0.13,0.0,0,0.35
+9273,event,Gion Matsuri,Japan,couple,adventure,thrill,5852.21,5,0.62,0.8,0.94,0.43,0.0,0,0.45
+9719,destination,Swiss Alps,Switzerland,couple,spiritual,spiritual,2911.35,10,0.56,0.9,0.97,0.55,0.52,0,0.66
+9855,event,Timkat Festival,Ethiopia,couple,culture,relaxed,7125.16,9,0.73,0.2,0.88,0.59,0.0,0,0.3
+9169,trek,Torres del Paine W Trek,Chile,couple,culture,thrill,7687.13,12,0.44,0.98,0.75,0.22,0.0,0,0.41
+9810,trek,Everest Base Camp,Nepal,family,nature,thrill,689.63,1,0.63,0.8,0.25,0.57,0.87,0,0.62
+9743,event,Pushkar Camel Fair,India,solo,adventure,offbeat,5197.9,1,0.79,0.1,0.74,0.4,0.0,1,0.18
+9493,destination,Cusco,Peru,family,spiritual,relaxed,5893.83,10,0.58,0.9,0.7,0.23,0.0,0,0.38
+9334,trek,Snowman Trek,Bhutan,couple,offbeat,thrill,2648.96,7,0.78,0.8,0.65,0.85,0.22,1,0.63
+9103,destination,Hoi An,Vietnam,family,spiritual,budget,1553.79,9,0.6,0.5,0.95,0.32,0.79,0,0.5
+9913,trek,Kumano Kodo,Japan,family,adventure,spiritual,7492.49,1,0.77,0.7,0.85,0.16,0.0,0,0.3
+9878,destination,Marrakech,Morocco,solo,spiritual,offbeat,6728.51,6,0.72,0.9,0.97,0.24,0.0,1,0.41
+9621,trek,Milford Track,New Zealand,family,culture,thrill,7782.41,7,0.94,0.7,0.5,0.29,0.0,0,0.32
+9641,destination,Hoi An,Vietnam,family,adventure,thrill,7035.28,3,0.5,0.95,0.79,0.13,0.0,0,0.37
+9749,trek,Snowman Trek,Bhutan,couple,adventure,relaxed,535.05,7,0.4,0.8,0.65,0.55,0.92,1,0.68
+9943,event,Songkran Festival,Thailand,couple,food,offbeat,6842.05,11,0.51,0.3,0.8,0.94,0.0,1,0.46
+9356,destination,Kyoto,Japan,couple,culture,luxury,3614.87,5,0.55,0.96,0.96,0.89,0.38,0,0.78
+9497,event,Lantern Festival,Vietnam,couple,adventure,spiritual,2903.57,5,0.7,0.8,0.76,0.5,0.0,0,0.46
+9163,event,Bhutan Tsechu,Bhutan,couple,food,relaxed,488.73,10,0.62,0.87,0.81,0.24,0.86,0,0.59
+9345,destination,Machu Picchu,Peru,family,adventure,luxury,7625.11,1,0.66,0.6,0.82,0.97,0.0,0,0.58
+9986,destination,Zanzibar,Tanzania,solo,nature,luxury,6736.49,10,0.71,0.76,0.8,0.14,0.0,0,0.31
+9032,event,Lantern Festival,Vietnam,family,spiritual,luxury,7570.11,5,0.48,0.8,0.74,0.6,0.0,0,0.49
+9938,trek,Inca Trail,Peru,family,spiritual,luxury,799.45,1,0.67,0.6,0.5,0.56,0.83,0,0.58
+9735,destination,Banff,Canada,family,food,relaxed,400.38,3,0.53,0.7,0.71,0.19,0.98,0,0.53
+9777,trek,Inca Trail,Peru,solo,spiritual,offbeat,5251.55,8,0.54,0.8,0.85,0.58,0.0,1,0.5
+9174,destination,Zanzibar,Tanzania,solo,spiritual,budget,3444.05,9,0.74,0.77,0.92,0.5,0.41,0,0.56
+9781,event,Inti Raymi,Peru,family,offbeat,thrill,2407.7,3,0.58,0.7,0.86,0.38,0.0,0,0.39
+9025,trek,Snowman Trek,Bhutan,family,adventure,spiritual,937.48,3,0.78,0.4,0.25,0.59,0.79,1,0.49
+9444,destination,Cappadocia,Turkey,couple,offbeat,spiritual,7035.77,9,0.79,0.86,0.84,0.86,0.0,1,0.62
+9087,destination,Siem Reap,Cambodia,family,spiritual,spiritual,6672.21,6,0.73,0.6,0.9,0.58,0.0,0,0.43
+9949,trek,Snowman Trek,Bhutan,solo,adventure,thrill,6475.66,9,0.39,0.79,0.95,0.27,0.0,1,0.38
+9830,destination,Zanzibar,Tanzania,family,offbeat,relaxed,4781.21,4,0.65,0.8,0.76,0.57,0.14,0,0.52
+9226,destination,Siem Reap,Cambodia,solo,adventure,offbeat,1104.43,1,0.53,0.83,0.77,0.27,0.88,1,0.59
+9287,trek,Kumano Kodo,Japan,family,culture,relaxed,3156.4,1,0.79,0.7,0.85,0.16,0.05,0,0.31
+9330,trek,Torres del Paine W Trek,Chile,couple,offbeat,budget,378.95,5,0.79,0.8,0.75,0.61,0.97,0,0.73
+9886,destination,Hoi An,Vietnam,couple,culture,budget,2905.08,12,0.51,0.2,0.91,0.24,0.52,0,0.29
+9753,event,Bhutan Tsechu,Bhutan,family,adventure,spiritual,6695.41,4,0.39,0.5,0.99,0.48,0.0,0,0.37
+9369,destination,Marrakech,Morocco,family,food,offbeat,1352.12,11,0.66,0.4,0.95,0.3,0.83,1,0.46
+9001,destination,Chefchaouen,Morocco,family,adventure,offbeat,6535.22,5,0.65,0.91,0.99,0.19,0.0,1,0.39
+9517,event,Naadam Festival,Mongolia,solo,adventure,budget,6035.75,1,0.59,0.4,0.86,0.85,0.0,0,0.47
+9964,trek,Snowman Trek,Bhutan,solo,offbeat,offbeat,7180.69,5,0.85,0.6,0.95,0.92,0.0,1,0.57
+9091,trek,Kumano Kodo,Japan,solo,food,relaxed,7014.88,5,0.57,0.95,0.9,0.28,0.0,0,0.44
+9770,destination,Swiss Alps,Switzerland,couple,offbeat,offbeat,3212.17,11,0.61,0.8,0.88,0.71,0.46,1,0.66
+9364,destination,Kyoto,Japan,solo,food,thrill,1794.8,4,0.63,0.92,0.82,0.45,0.74,0,0.66
+9570,trek,Rinjani Trek,Indonesia,solo,adventure,luxury,3673.01,6,0.59,0.84,0.95,0.95,0.0,0,0.67
+9653,destination,Cappadocia,Turkey,family,nature,thrill,5551.82,12,0.7,0.8,0.98,0.62,0.0,1,0.53
+9658,trek,Kumano Kodo,Japan,family,food,budget,6448.08,9,0.8,0.87,0.85,0.11,0.0,0,0.34
+9812,trek,Annapurna Circuit,Nepal,couple,offbeat,thrill,2750.65,7,0.54,0.8,0.65,0.47,0.18,0,0.48
+9969,destination,Hoi An,Vietnam,family,offbeat,relaxed,5328.42,12,0.5,0.2,0.78,0.14,0.03,0,0.13
+9486,destination,Pokhara,Nepal,family,food,offbeat,2881.21,8,0.72,0.9,0.96,0.3,0.52,1,0.56
+9452,trek,Markha Valley Trek,India,solo,offbeat,spiritual,7675.96,2,0.47,0.6,0.95,0.72,0.0,0,0.49
+9741,destination,Bali,Indonesia,couple,nature,thrill,3239.1,3,0.73,0.9,0.79,0.38,0.45,0,0.56
+9023,trek,Milford Track,New Zealand,solo,nature,budget,3423.46,1,0.59,0.99,0.85,0.94,0.0,0,0.7
+9262,event,Lantern Festival,Vietnam,solo,food,spiritual,1510.17,10,0.74,0.3,0.8,0.13,0.34,0,0.23
+9691,event,Timkat Festival,Ethiopia,solo,adventure,relaxed,2468.66,4,0.41,0.7,0.95,0.49,0.0,0,0.44
+9203,trek,Milford Track,New Zealand,couple,offbeat,budget,3666.77,3,0.7,0.81,0.75,0.7,0.0,0,0.54
+9367,event,Pushkar Camel Fair,India,couple,offbeat,thrill,6832.31,11,0.36,0.97,0.7,0.3,0.0,0,0.43
+9448,destination,Bali,Indonesia,solo,culture,relaxed,7632.92,5,0.75,0.76,0.89,0.27,0.0,0,0.37
+9357,event,Durga Puja,India,couple,nature,thrill,507.59,4,0.87,0.5,0.73,0.38,0.85,0,0.51
+9623,event,Cherry Blossom Festival,Japan,solo,spiritual,spiritual,6804.96,5,0.69,0.9,0.84,0.59,0.0,0,0.53
+9354,trek,Markha Valley Trek,India,family,spiritual,relaxed,626.56,7,0.9,0.86,0.25,0.45,0.89,0,0.6
+9075,event,Naadam Festival,Mongolia,couple,spiritual,spiritual,7128.75,7,0.78,0.83,0.73,0.23,0.0,0,0.36
+9109,destination,Cusco,Peru,family,spiritual,luxury,1313.49,7,0.66,0.81,0.86,0.34,0.84,0,0.61
+9221,destination,Cusco,Peru,couple,adventure,spiritual,6713.72,5,0.72,0.81,0.77,0.23,0.0,0,0.36
+9138,destination,Machu Picchu,Peru,family,nature,offbeat,7109.25,1,0.53,0.6,0.71,0.32,0.0,1,0.32
+9771,event,Naadam Festival,Mongolia,family,nature,spiritual,1548.79,3,0.63,0.6,0.86,0.26,0.33,0,0.39
+9961,trek,Kumano Kodo,Japan,family,food,luxury,6703.3,1,0.9,0.7,0.85,0.28,0.0,0,0.35
+9313,event,Cherry Blossom Festival,Japan,couple,nature,spiritual,6321.97,5,0.83,0.9,1.0,0.87,0.0,0,0.66
+9799,destination,Kyoto,Japan,couple,offbeat,budget,3056.71,7,0.57,0.8,0.76,0.45,0.49,0,0.55
+9554,destination,Lofoten Islands,Norway,solo,spiritual,luxury,2110.49,12,0.71,0.6,0.79,0.22,0.68,0,0.45
+9610,event,Durga Puja,India,family,food,relaxed,446.55,10,0.7,0.77,0.8,0.27,0.88,0,0.57
+9027,trek,Everest Base Camp,Nepal,family,offbeat,thrill,4600.44,1,0.5,0.8,0.25,0.2,0.0,0,0.31
+9810,trek,Inca Trail,Peru,couple,nature,spiritual,3135.78,1,0.56,0.6,0.75,0.55,0.05,0,0.42
+9122,trek,Everest Base Camp,Nepal,solo,culture,thrill,2676.39,9,0.76,0.6,0.95,0.22,0.21,0,0.35
+9639,event,Bhutan Tsechu,Bhutan,couple,nature,spiritual,3195.92,12,0.72,0.8,0.93,0.4,0.0,0,0.43
+9503,event,Lantern Festival,Vietnam,solo,food,budget,5453.14,3,0.61,0.76,1.0,0.3,0.0,0,0.39
+9818,trek,Everest Base Camp,Nepal,solo,adventure,relaxed,1024.14,10,0.41,0.5,0.95,0.83,0.76,0,0.69
+9070,trek,Snowman Trek,Bhutan,family,food,offbeat,1616.3,11,0.81,0.9,0.25,0.29,0.56,1,0.49
+9553,trek,Kumano Kodo,Japan,solo,culture,thrill,5574.55,2,0.9,0.8,0.9,0.5,0.0,0,0.47
+9329,destination,Lofoten Islands,Norway,solo,adventure,offbeat,3025.05,3,0.54,0.7,0.91,0.49,0.49,1,0.55
+9012,destination,Hoi An,Vietnam,couple,food,relaxed,2559.08,3,0.58,0.81,0.91,0.97,0.59,0,0.8
+9240,trek,Torres del Paine W Trek,Chile,family,spiritual,budget,3774.81,11,0.38,0.93,0.5,0.6,0.0,0,0.51
+9881,trek,Kumano Kodo,Japan,family,culture,budget,2835.86,12,0.64,0.8,0.85,0.37,0.15,0,0.45
+9649,trek,Markha Valley Trek,India,couple,nature,luxury,6489.31,11,0.79,0.8,0.65,0.87,0.0,0,0.58
+9047,destination,Bali,Indonesia,couple,offbeat,offbeat,4732.52,1,0.58,0.7,0.78,0.47,0.15,1,0.45
+9545,destination,Pokhara,Nepal,couple,culture,thrill,1701.84,6,0.73,0.7,0.97,0.41,0.76,0,0.6
+9033,destination,Machu Picchu,Peru,family,culture,offbeat,3642.48,5,0.65,0.97,0.88,0.25,0.37,1,0.52
+9087,trek,Rinjani Trek,Indonesia,couple,culture,offbeat,5025.27,5,0.35,0.77,0.65,0.29,0.0,1,0.36
+9294,trek,Inca Trail,Peru,family,spiritual,thrill,3600.44,5,0.64,0.94,0.5,0.59,0.0,0,0.51
+9950,event,Bhutan Tsechu,Bhutan,family,nature,luxury,2865.57,9,0.94,1.0,0.8,0.5,0.0,0,0.53
+9061,event,Pushkar Camel Fair,India,couple,food,relaxed,4500.53,5,0.87,0.5,0.94,0.5,0.0,0,0.37
+9885,event,Gion Matsuri,Japan,couple,culture,thrill,3732.59,11,0.65,0.6,0.85,0.99,0.0,0,0.59
+9735,event,Durga Puja,India,solo,offbeat,thrill,5325.57,10,0.44,0.87,0.97,0.24,0.0,0,0.4
+9448,event,Bhutan Tsechu,Bhutan,couple,culture,luxury,4895.35,9,0.38,0.77,0.91,0.12,0.0,0,0.31
+9018,destination,Machu Picchu,Peru,family,food,thrill,2703.65,10,0.65,0.9,0.97,0.22,0.56,0,0.54
+9388,trek,Kumano Kodo,Japan,solo,spiritual,relaxed,6550.98,7,0.54,0.95,0.9,1.0,0.0,0,0.72
+9365,trek,Inca Trail,Peru,solo,culture,thrill,7221.01,10,0.4,0.9,0.85,0.31,0.0,0,0.43
